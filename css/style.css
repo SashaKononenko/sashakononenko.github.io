@@ -8,8 +8,14 @@ a{
   color: #000000;
 }
 
+div.text {
+  margin: 5%;
+  color: rgb(111, 190, 247);
+}
+
 div.card {
   margin: 5%;
+  margin-top: 5%;
   background: #3E94D1;
   border-color: #03406a;
  }

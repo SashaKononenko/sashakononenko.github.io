@@ -13,9 +13,20 @@ div.text {
   color: rgb(111, 190, 247);
 }
 
+div.list{
+  margin: 5%;
+  color: rgb(111, 190, 247);
+}
+
+div.list a{
+  position:relative;
+  bottom: 1em; 
+  color:  #6fbef7;
+}
+
+
 div.card {
   margin: 5%;
-  margin-top: 5%;
   background: #3E94D1;
   border-color: #03406a;
  }

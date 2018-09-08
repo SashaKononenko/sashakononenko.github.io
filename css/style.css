@@ -1,34 +1,34 @@
 body{
     height: 2000px;
-    background: #03406A;
-    color: rgb(1, 36, 59);
+    background: #bef0ff;
+    color: #03406a;
 }
 
 a{
-  color: #000000;
+  color: #03406a;
 }
 
 div.text {
   margin: 5%;
-  color: rgb(111, 190, 247);
+  color: #03406a;
 }
 
 div.list{
   margin: 5%;
-  color: rgb(111, 190, 247);
+  color:#03406a;
 }
 
 div.list a{
   position:relative;
   bottom: 1em; 
-  color:  #6fbef7;
+  color:  #03406a;
 }
 
 
 div.card {
   margin: 5%;
-  background: #3E94D1;
-  border-color: #03406a;
+  background:#53baff;
+  border-color:#bef0ff;
  }
 
 div.card.card-img-top {
@@ -38,4 +38,14 @@ div.card.card-img-top {
 
 ion-icon {
   font-size: 48px;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #03406a;;
+    border-color: #03406a;
+    color: #bef0ff;
 }
